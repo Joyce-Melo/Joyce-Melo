@@ -1,5 +1,5 @@
 # 💫 About Me:
-Back-end Developer<br>Node.js enthusiastic<br>Currently learning react.js<br>Fun fact: if (!training){<br>                        code();<br>                                         };
+Back-end developer<br>Node.js enthusiastic<br>Currently learning react.js<br>Fun fact: if (!training){<br>                        code();<br>                                         };
 
 
 ## 🌐 Socials:
